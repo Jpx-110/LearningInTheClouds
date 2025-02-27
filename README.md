@@ -9,6 +9,7 @@ I will be using this to document everything I learn in this fun but challenging 
 2. CLI & Linux Fundamentals
 3. Bash Scripting
 4. Programming Language - Python
-5. AWS Fundamentals - CCP
-6. Terraform
-7. Cloud Projects
+5. Version Control - Git
+6. AWS Fundamentals - CCP
+7. Terraform
+8. Cloud Projects
