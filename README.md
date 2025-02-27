@@ -11,5 +11,7 @@ I will be using this to document everything I learn in this fun but challenging 
 4. Programming Language - Python
 5. Version Control - Git
 6. AWS Fundamentals - CCP
-7. Terraform
-8. Cloud Projects
+7. Infrastructure as Code - Terraform/CloudFormation
+8. CICD Pipelines - Jenkis/Github Actions
+9. Monitoring & Logging - AWS CloudWatch
+10. Cloud Projects
